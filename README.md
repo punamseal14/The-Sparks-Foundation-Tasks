@@ -19,6 +19,8 @@ Language used - Python
 
 IDE - Jupyter Notebook
 
+<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="100">
+
 ## TASK 2: **Prediction using Unsupervised ML** (Level - Beginner)
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
 
