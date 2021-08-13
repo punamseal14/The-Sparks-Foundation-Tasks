@@ -1,4 +1,5 @@
-# The Sparks Foundation 
+# The Sparks Foundation [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" width="30">](https://www.thesparksfoundationsingapore.org/)
+
 - - - - 
 ## ABOUT
 - This repository contains internship tasks related to Data Science & Business Analytics Tasks.
@@ -20,6 +21,7 @@ Language used - Python
 IDE - Jupyter Notebook
 
 [<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task1.ipynb)
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="50">
 
 
 ## TASK 2: **Prediction using Unsupervised ML** (Level - Beginner)
@@ -32,6 +34,8 @@ Language used - Python
 IDE - Jupyter Notebook
 
 [<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task2.ipynb)
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="50">
+
 
 
 ## TASK 3: **Prediction using Decision Tree Algorithm** (Level - Intermediate)
@@ -46,3 +50,5 @@ Language used - Python
 IDE - Jupyter Notebook
 
 [<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task3.ipynb)
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="50">
+------
