@@ -6,7 +6,7 @@
 - **Internship Duration-** One month
 
 - In this internship, I succesfully completed the three tasks within the time-frame.
--  The following three tasks are mentioned below with the details and links.
+- The following three tasks are mentioned below with the details and links.
 
 ## TASK 1: **Prediction using Supervised ML** (Level - Beginner)
 Predict the percentage of an student based on the no. of study hours and this is a simple linear regression task as it involves just 2 variables.
@@ -19,4 +19,22 @@ Language used - Python
 
 IDE - Jupyter Notebook
 
-## TASK 2: **
+## TASK 2: **Prediction using Unsupervised ML** (Level - Beginner)
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
+
+Dataset : https://bit.ly/3kXTdox
+
+Language used - Python
+
+IDE - Jupyter Notebook
+
+## TASK 3: **Prediction using Decision Tree Algorithm** (Level - Intermediate)
+Create the Decision Tree classifier and visualize it graphically. 
+
+Goal - The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. 
+
+Dataset : https://bit.ly/3kXTdox
+
+Language used - Python
+
+IDE - Jupyter Notebook
