@@ -1,7 +1,7 @@
 <img src="https://thesparksfoundationsingapore.org/images/logo_small.png" align="right" width="150" height="150">
 
 # The Sparks Foundation [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" width="20">](https://www.thesparksfoundationsingapore.org/)
-- - - - 
+-----
 ## ABOUT
 - This repository contains internship tasks related to Data Science & Business Analytics Tasks.
 - **Internship Mode-** Virtual Internship
