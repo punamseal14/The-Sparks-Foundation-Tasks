@@ -31,6 +31,9 @@ Language used - Python
 
 IDE - Jupyter Notebook
 
+[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task2.ipynb)
+
+
 ## TASK 3: **Prediction using Decision Tree Algorithm** (Level - Intermediate)
 Create the Decision Tree classifier and visualize it graphically. 
 
@@ -41,3 +44,5 @@ Dataset : https://bit.ly/3kXTdox
 Language used - Python
 
 IDE - Jupyter Notebook
+
+[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task3.ipynb)
