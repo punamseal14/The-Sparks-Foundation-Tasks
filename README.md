@@ -1,14 +1,14 @@
-<img src="https://thesparksfoundationsingapore.org/images/logo_small.png" width="110" height="110">
+<img src="https://thesparksfoundationsingapore.org/images/logo_small.png" align="right" width="150" height="150">
 
-# The Sparks Foundation [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" width="30">](https://www.thesparksfoundationsingapore.org/)
+# The Sparks Foundation [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" width="20">](https://www.thesparksfoundationsingapore.org/)
 - - - - 
 ## ABOUT
 - This repository contains internship tasks related to Data Science & Business Analytics Tasks.
 - **Internship Mode-** Virtual Internship
 - **Internship Duration-** One month
 
-- In this internship, I succesfully completed the three tasks within the time-frame.
-- The following three tasks are mentioned below with the details and links.
+- In this internship, I successfully completed the three tasks within the time-frame.
+- The following three tasks are mentioned below with the links.
 
 ## TASK 1: **Prediction using Supervised ML** (Level - Beginner)
 Predict the percentage of an student based on the no. of study hours and this is a simple linear regression task as it involves just 2 variables.
@@ -21,10 +21,11 @@ Predict the percentage of an student based on the no. of study hours and this is
 
 **IDE-** Jupyter Notebook
 
-[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task1.ipynb)
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="50">
+[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task1.ipynb)
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">
 
-(Please click on the logos to overview my tasks)
+*(Please click on the logos to overview my tasks)*
+
 
 
 
@@ -37,10 +38,11 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 
 **IDE-** Jupyter Notebook
 
-[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task2.ipynb)
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="50">
+[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task2.ipynb)
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">
 
-(Please click on the logos to overview my tasks)
+*(Please click on the logos to overview my tasks)*
+
 
 
 
@@ -55,9 +57,9 @@ Create the Decision Tree classifier and visualize it graphically.
 
 **IDE-** Jupyter Notebook
 
-[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task3.ipynb)
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" width="50">
+[<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task3.ipynb)
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">
 
-(Please click on the logos to overview my tasks)
+*(Please click on the logos to overview my tasks)*
 
 ------
