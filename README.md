@@ -1,3 +1,2 @@
-
-
+# The Sparks Foundation Internship
 
