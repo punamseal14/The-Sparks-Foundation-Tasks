@@ -22,7 +22,7 @@ Predict the percentage of an student based on the no. of study hours and this is
 **IDE-** Jupyter Notebook
 
 [<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task1.ipynb)
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">
+[<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">](https://www.linkedin.com/posts/punam-seal-870434182_task1-gripaug21-grip-activity-6832224348531687424-Mt_l/)
 
 *(Please click on the logos to overview my tasks)*
 
@@ -39,7 +39,7 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 **IDE-** Jupyter Notebook
 
 [<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task2.ipynb)
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">
+[<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">](https://www.linkedin.com/posts/punam-seal-870434182_task2-gripaugust21-grip-activity-6832258466803965952-wkZP/)
 
 *(Please click on the logos to overview my tasks)*
 
@@ -58,7 +58,7 @@ Create the Decision Tree classifier and visualize it graphically.
 **IDE-** Jupyter Notebook
 
 [<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" align="left" width="50">](https://github.com/punamseal14/The-Sparks-Foundation-Tasks/blob/master/TSF_Task3.ipynb)
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">
+[<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" align="center" width="50">](https://www.linkedin.com/posts/punam-seal-870434182_task3-gripaugust21-grip-activity-6832264913956716544-28cN/)
 
 *(Please click on the logos to overview my tasks)*
 
